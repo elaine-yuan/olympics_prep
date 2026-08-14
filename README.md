@@ -1,5 +1,5 @@
 # olympics_prep
-This repository is a collection of AI-generated SQL challenges and their solutions. The challenges were generated based on an ERD of the Olympics dataset.
+This repository is a collection of AI-generated SQL challenges and their solutions. The challenges were generated based on an [ERD of the Olympics dataset](https://github.com/elaine-yuan/olympics_prep/blob/main/olympics_erd.png?raw=true).
 
 ## Overview
 Database: Olympics
@@ -22,5 +22,3 @@ The analysis uses a relational Olympics database containing information about:
 * Disciplines
 * Events
 * Results
-
-<img width="1141" height="691" alt="olympics erd" src="[https://github.com/user-attachments/assets/c69d9ba8-66a8-48ca-8060-14f0a9d25dd6](https://github.com/elaine-yuan/olympics_prep/blob/main/olympics_erd.png?raw=true)" />
