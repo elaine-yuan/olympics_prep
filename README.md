@@ -10,7 +10,7 @@ This repository is a collection of AI-generated SQL challenges and their solutio
 1. [SELECT, JOINS & GROUP BY](https://github.com/elaine-yuan/olympics_prep/blob/main/01_Select_Joins_And_Group_By.sql): Joins, filtering, aggregation, conditional aggregation
 2. [DATE MATH & TIMELINE LOGIC](https://github.com/elaine-yuan/olympics_prep/blob/main/02_Date_Math_And_Timeline_Logic.sql): DATEDIFF(), date extraction, Olympic timelines, age calculations
 3. [PERCENT OF TOTAL & AGG-OF-AGGS](https://github.com/elaine-yuan/olympics_prep/blob/main/03_Pct_of_Total_And_Agg_of_Aggs.sql): Percentages, ratios, window sums, aggregate-of-aggregates
-4. WINDOW FUNCTIONS & RANKING: LAG(), LEAD(), ranking, running totals, percentiles
+4. [WINDOW FUNCTIONS & RANKING](https://github.com/elaine-yuan/olympics_prep/blob/main/04_Window_Functions_And_Ranking.sql): LAG(), ranking, running totals, percentiles
 
 ## Database Schema
 
