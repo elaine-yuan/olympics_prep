@@ -2,9 +2,9 @@
 This repository is a collection of AI-generated SQL challenges and their solutions. The challenges were generated based on an [ERD of the Olympics dataset](https://github.com/elaine-yuan/olympics_prep/blob/main/olympics_erd.png?raw=true). This prep is designed for a 7-question, 20-minute assessment. As a result, you may see shorthand column numbers used in place of column names in GROUP BY clauses to save time.
 
 ## Overview
-Database: Olympics
-SQL dialect: Snowflake SQL
-Number of challenges: 24
+* Database: Olympics
+* SQL dialect: Snowflake SQL
+* Number of challenges: 24
 
 ## Topics Covered
 1. [SELECT, JOINS & GROUP BY](https://github.com/elaine-yuan/olympics_prep/blob/main/01_Select_Joins_And_Group_By.sql): Joins, filtering, aggregation, conditional aggregation
